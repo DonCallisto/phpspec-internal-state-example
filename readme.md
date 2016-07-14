@@ -1,0 +1,1 @@
+A tutorial example for spec-ing classes that changes internal state of other classes.
